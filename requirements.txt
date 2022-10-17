@@ -1,0 +1,9 @@
+nltk
+stanza
+scikit-learn
+scipy
+numpy
+pandas
+torch
+transformers
+streamlit
